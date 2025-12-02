@@ -26,6 +26,7 @@
 - 📍 Based in **Pune, India** 🇮🇳 (IST timezone)
 - 📫 Reach me via [LinkedIn](https://linkedin.com/in/sonalsatpute)
 - 🚗 Fun fact: I'm passionate about **driving** and dream of embarking on epic **road trips** exploring new destinations!
+- 🐧 Recently switched to **Ubuntu Linux** as my daily driver and absolutely loving it! ***No more "It works on my machine" debates - my machine IS the machine!*** 😄
 - ⚡ Philosophy: *"Clean code is not written by following a set of rules. It's written by someone who cares."*
 
 ---
@@ -138,6 +139,7 @@
 <div align="center">
 
 [![Wharf](https://github-readme-stats.vercel.app/api/pin/?username=sonalsatpute&repo=wharf&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=C9D1D9)](https://github.com/sonalsatpute/wharf)
+[![Workstation Setup](https://github-readme-stats.vercel.app/api/pin/?username=sonalsatpute&repo=workstation-setup&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=C9D1D9)](https://github.com/sonalsatpute/workstation-setup)
 
 </div>
 
